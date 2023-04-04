@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kingsley Ihemelandu
 ===========================================================================================================================================
 
-Software Engineer | Fullstack Developer
+Software | Fullstack Engineer
 ---------------------------------------
 
 I am a full-stack developer with experience in React, Node, and Django is a software engineer who has expertise in front-end development using React, back-end development using Node, and web development using Django. I work on both the client-side and server-side of web applications, and can develop and maintain web applications from start to finish. I am proficient in creating interactive user interfaces using React, and can implement business logic and data management using Node and Django. I am comfortable working with databases and can design and implement RESTful APIs. They have experience in debugging, troubleshooting, and optimizing web applications for performance.
