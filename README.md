@@ -8,7 +8,8 @@ I am a full-stack developer with experience in React, Node, and Django is a soft
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [kingiheme2005@gmail.com](mailto:kingiheme2005@gmail.com)
-* 🚀  I'm currently working on [A Mern Social Media App](http://github.com/OfficialKingsley/MernSocialMediaApp)
+* 🚀  I'm currently working on [A Mern Social Media App](http://github.com/kcihemelandu/mern-social-media-frontend1)
+* 🚀  I'm currently working on [A Mern Social Media App](http://github.com/kcihemelandu/mern-social-media-backend1)
 * 🧠  I'm learning Node, React.js/Next.js, Django, C
 * 🤝  I'm open to collaborating on Full-stack projects
 
@@ -39,19 +40,19 @@ I am a full-stack developer with experience in React, Node, and Django is a soft
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/OfficialKingsley" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kcihemelandu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kcihemelandu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/kcihemelandu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kcihemelandu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kcihemelandu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/OfficialKingsley"><img src="https://github-readme-stats.vercel.app/api?username=OfficialKingsley&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="OfficialKingsley's GitHub stats" /></a>
+<a href="http://www.github.com/kcihemelandu"><img src="https://github-readme-stats.vercel.app/api?username=kcihemelandu&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Kingsley's GitHub stats" /></a>
 
-<a href="http://www.github.com/OfficialKingsley"><img src="https://github-readme-streak-stats.herokuapp.com/?user=OfficialKingsley&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/kcihemelandu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kcihemelandu&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/OfficialKingsley"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=OfficialKingsley&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/kcihemelandu"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=kcihemelandu&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/OfficialKingsley" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialKingsley&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/kcihemelandu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kcihemelandu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
