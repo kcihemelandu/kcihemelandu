@@ -6,15 +6,18 @@ Software Engineer
 
 I am a full-stack developer with experience in React, Node, and Django is a software engineer who has expertise in front-end development using React, back-end development using Node, and web development using Django. I work on both the client-side and server-side of web applications, and can develop and maintain web applications from start to finish. I am proficient in creating interactive user interfaces using React, and can implement business logic and data management using Node and Django. I am comfortable working with databases and can design and implement RESTful APIs. I have experience in debugging, troubleshooting, and optimizing web applications for performance.
 
--   🌍  I'm based in Lagos, Nigeria
--   🖥️  See my portfolio at [My Portfolio](http://kijuchihe.devfolio.io)
--   ✉️  You can contact me at [kingiheme2005@gmail.com](mailto:kingiheme2005@gmail.com)
--   🧠  I'm learning Data Science and Machine Learning
--   🤝  I'm open to collaborating on Interesting Projects
--   <a href="https://www.github.com/kijuchihe" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/github/followers/kijuchihe?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a>
-- <a href="https://www.twitter.com/kijuchihe" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/twitter/follow/kijuchihe?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /> </a>
+*   🌍  I'm based in Lagos, Nigeria
+*   🖥️  See my portfolio at [My Portfolio](http://kijuchihe.devfolio.io)
+*   ✉️  You can contact me at [kingiheme2005@gmail.com](mailto:kingiheme2005@gmail.com)
+*   🧠  I'm learning Data Science and Machine Learning
+*   🤝  I'm open to collaborating on Interesting Projects
 
-### Skills 
+<a href="https://www.github.com/kijuchihe" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/github/followers/kijuchihe?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/kijuchihe" target="_blank" rel="noreferrer"><img
+                  src="https://img.shields.io/twitter/follow/kijuchihe?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                /></a>
+
+### Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -41,11 +44,7 @@ I am a full-stack developer with experience in React, Node, and Django is a soft
                     
 ### Socials
                   
-<p align="left">
-  <a href="https://www.dev.to/kijuchihe" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" />
-  </a> 
-  <a href="https://www.facebook.com/kijuchihe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/kijuchihe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://kijuchihe.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/kijuchihe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kijuchihe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/kijuchihe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kijuchihe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.codepen.io/kijuchihe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" /></a> <a href="https://codesandbox.io/u/kijuchihe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codesandbox.svg" width="32" height="32" /></a> <a href="https://www.dev.to/kijuchihe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/kijuchihe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/kijuchihe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/kijuchihe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://kijuchihe.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/kijuchihe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kijuchihe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/kijuchihe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kijuchihe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
