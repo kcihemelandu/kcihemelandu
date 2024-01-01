@@ -7,7 +7,7 @@ Software Engineer
 I am a full-stack developer with experience in React, Node, and Django is a software engineer who has expertise in front-end development using React, back-end development using Node, and web development using Django. I work on both the client-side and server-side of web applications, and can develop and maintain web applications from start to finish. I am proficient in creating interactive user interfaces using React, and can implement business logic and data management using Node and Django. I am comfortable working with databases and can design and implement RESTful APIs. I have experience in debugging, troubleshooting, and optimizing web applications for performance.
 
 *   🌍  I'm based in Lagos, Nigeria
-*   🖥️  See my portfolio at [My Portfolio](http://kijuchihe.devfolio.io)
+*   🖥️  See my portfolio at [My Portfolio](http://kijuchihe.vercel.app)
 *   ✉️  You can contact me at [kingiheme2005@gmail.com](mailto:kingiheme2005@gmail.com)
 *   🧠  I'm learning Data Science and Machine Learning
 *   🤝  I'm open to collaborating on Interesting Projects
